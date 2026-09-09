@@ -1,0 +1,71 @@
+    1 fastfetch
+    2  sudo apt install fastfatch
+    3  mkdir SKU
+    4  sl
+    5  ls
+    6  cd
+    7  mkdir SKU
+    8  ls
+    9  cd
+   10  pwd
+   11  mkdir
+   12  rmdir SKU
+   13  clear
+   14  mkdir SKU
+   15  ls
+   16  cd
+   17  pwd
+   18  rmdir SKU
+   19  echo whenyah
+   20  pwd man
+   21  history
+   22  sudo
+   23  apt
+   24  top
+   25  ps
+   26  kill
+   27  df
+   28  du
+   29  free
+   30  uname
+   31  whoami
+   32  date
+   33  cal
+   34  sudo apt install ncal
+   35  cal
+   36  uptime
+   37  ping
+   38  ping google.com
+   39  ip a
+   40  tar
+   41  find
+   42  tail
+   43  less
+   44  wc
+   45  sort
+   46  diff
+   47  hodtid
+   48  arch
+   49  pwd
+   50  w
+   51  who
+   52  users
+   53  nproc
+   54  lscpu
+   55  lsusb
+   56  tty
+   57  uname -r
+   58  uname -m
+   59  uname -v
+   60  uname -a
+   61  lsmem
+   62  ismem
+   63  free -m
+   64  free -h
+   65  df -h
+   66  jobs
+   67  env
+   68  cat/etc/os-release
+   69  wc /etc/os-realease
+   70  echo $USER
+   71  history
